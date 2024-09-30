@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">HelloWorld</string>
+    <string name="app_name" translatable="false">HelloWorld</string>
     <string name="good_morning_text">Good morning!</string>
     <string name="good_afternoon_text">Good afternoon!</string>
     <string name="good_evening_text">Good evening!</string>
